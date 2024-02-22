@@ -1,10 +1,10 @@
 # Timeline_Genesis-de-los-corridos-tumbados
-Documentación del proceso para el proyecto Línea de tiempo
+# Documentación del proceso para el proyecto Línea de tiempo
 Descripción del proyecto  
 
-Nombre del proyecto:  
+# Nombre del proyecto:  
 
-Génesis de los corridos tumbados. Línea del tiempo 
+## Génesis de los corridos tumbados. Línea del tiempo 
 
 Va dirigido a la audiencia interesada en saber acerca de dónde proviene el género musical que ha representado a nuestro país en los últimos 5 años.  
 
